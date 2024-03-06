@@ -1,0 +1,6 @@
+tokenizers
+sentencepiece
+torch
+transformers
+pep8
+pytest
