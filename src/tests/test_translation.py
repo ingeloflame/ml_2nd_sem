@@ -7,7 +7,7 @@ def test_translation_pipeline():
     
     # Test input
     input_text = "очень много материала надо изучить"
-    expected_output = "There is a lot of material to study" # This is a rough translation, adjust as needed
+    expected_output = "There's a lot of material to study" # This is a rough translation, adjust as needed
     
     # Translate the input text
     result = translator(input_text)[0]['translation_text']
