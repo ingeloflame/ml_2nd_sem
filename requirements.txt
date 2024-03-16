@@ -5,3 +5,4 @@ transformers
 pep8
 pytest
 sacremoses
+steamlit
